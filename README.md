@@ -1,6 +1,6 @@
 <h1 align="left">networkh3</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.0.6-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-0.0.5-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
     <img alt="License: MIT License" src="https://img.shields.io/badge/License-MIT License-yellow.svg" />
   </a>
@@ -61,6 +61,15 @@ NETWORKH3.get_h3('Leeds, United Kingdom', 'drive', 9,
                 basemap_kwargs={
                   'source': cx.providers.Stamen.TonerLite}
                   )
+```
+The network and clipped H3 hexagons can then be used in analysis:
+
+```sh
+# Calling the network
+NETWORKH3.network
+
+# Calling the clipped H3 hexagons
+NETWORKH3.h3
 ```
 
 ## Issues and support
