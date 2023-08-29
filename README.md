@@ -40,7 +40,7 @@ NETWORKH3 requires three parameters: the area of interest, the type of OSMNx net
 ```sh
 from networkh3 import NETWORKH3
 
-NETWORKH3.get_h3('Leeds, United Kingdom', 'drive', 9, **kwargs)
+NETWORKH3.get_h3('Leeds, United Kingdom', 'drive', 9)
 ```
 
 Optional style keywords can also be specified:
