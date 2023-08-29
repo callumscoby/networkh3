@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/callumscoby/networkh3/main/images/washington_example.png" height="258px" />
 
 
-<p>(L-R): London, Beijing, Sydney</p>
+<p>(L-R): London, Beijing, Washington DC</p>
 
 <p>Example workflows are available <a href="https://github.com/callumscoby/networkh3/tree/main/examples">here</a></p>
 
