@@ -12,7 +12,7 @@
 <p>
 <img src="https://raw.githubusercontent.com/callumscoby/networkh3/main/images/london_example.png" height="258px"/>
 <img src="https://raw.githubusercontent.com/callumscoby/networkh3/main/images/beijing_example.png" height="258px" />
-<img src="https://raw.githubusercontent.com/callumscoby/networkh3/main/images/sydney_example.png" height="258px" />
+<img src="https://raw.githubusercontent.com/callumscoby/networkh3/main/images/washington_example.png" height="258px" />
 
 
 <p>(L-R): London, Beijing, Sydney</p>
