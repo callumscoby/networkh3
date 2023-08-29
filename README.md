@@ -77,7 +77,4 @@ NETWORKH3.get_h3('Leeds, United Kingdom', 'drive', 9,
 ## Acknowledgements
 * <p>⌇ <a href="https://github.com/gboeing/osmnx">OSMnx</a></p>
 
-<!-- * ⌇ OSMnx (https://github.com/gboeing/osmnx) -->
 * <p>🗺 <a href="https://github.com/uber/h3">H3</a></p>
-
-<!-- * 🗺 H3 (https://github.com/uber/h3) -->
