@@ -80,7 +80,6 @@ NETWORKH3.h3
 
 * Website: <a href="https://callumscoby.com">callumscoby.com</a>
 * Twitter: [@ScobyCallum](https://twitter.com/ScobyCallum)
-* Github: [@callumscoby](https://github.com/callumscoby)
 * LinkedIn: [@callumscoby](https://linkedin.com/in/callumscoby)
 
 ## Acknowledgements
