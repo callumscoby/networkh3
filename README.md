@@ -17,7 +17,7 @@
 
 <p>(L-R): London, Beijing, Washington DC</p></p>
 
-<p>Example workflows are available <a href="https://github.com/callumscoby/networkh3/tree/main/examples">here</a></p>
+<p>Example workflows are available <a href="https://github.com/callumscoby/networkh3/blob/main/examples.ipynb">here</a></p>
 
 ## Install
 
